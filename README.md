@@ -1,5 +1,6 @@
 # 🏋️ Workout Prediction API
-https://workoutpredictionbackend.onrender.com/
+[CLICK AND CHECK IT OUT](https://workoutpredictionbackend.onrender.com/)
+
 A FastAPI‑based backend for fitness tracking, food logging, lifestyle monitoring, and workout/diet prediction.
 
 ---
